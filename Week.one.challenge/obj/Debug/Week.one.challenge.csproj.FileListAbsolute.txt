@@ -1,0 +1,14 @@
+C:\Users\Ben\source\repos\Week.one.challenge\Week.one.challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ben\source\repos\Week.one.challenge\Week.one.challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ben\source\repos\Week.one.challenge\Week.one.challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ben\source\repos\Week.one.challenge\Week.one.challenge\bin\Debug\Week.one.challenge.dll
+C:\Users\Ben\source\repos\Week.one.challenge\Week.one.challenge\bin\Debug\Week.one.challenge.pdb
+C:\Users\Ben\source\repos\Week.one.challenge\Week.one.challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ben\source\repos\Week.one.challenge\Week.one.challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ben\source\repos\Week.one.challenge\Week.one.challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ben\source\repos\Week.one.challenge\Week.one.challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ben\source\repos\Week.one.challenge\Week.one.challenge\obj\Debug\Week.one.challenge.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\Week.one.challenge\Week.one.challenge\obj\Debug\Week.one.challenge.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\Week.one.challenge\Week.one.challenge\obj\Debug\Week.one.challenge.csproj.CopyComplete
+C:\Users\Ben\source\repos\Week.one.challenge\Week.one.challenge\obj\Debug\Week.one.challenge.dll
+C:\Users\Ben\source\repos\Week.one.challenge\Week.one.challenge\obj\Debug\Week.one.challenge.pdb
